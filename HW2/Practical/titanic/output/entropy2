@@ -8,10 +8,10 @@ edge [fontname=helvetica] ;
 1 -> 2 ;
 3 [label=<entropy = 1.0<br/>samples = 144<br/>value = [72, 72]<br/>class = Didn't>, fillcolor="#ffffff"] ;
 1 -> 3 ;
-4 [label=<Pclass &le; 1.5<br/>entropy = 0.699<br/>samples = 577<br/>value = [468, 109]<br/>class = Didn't>, fillcolor="#eb9e67"] ;
+4 [label=<Fare &le; 26.269<br/>entropy = 0.699<br/>samples = 577<br/>value = [468, 109]<br/>class = Didn't>, fillcolor="#eb9e67"] ;
 0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-5 [label=<entropy = 0.95<br/>samples = 122<br/>value = [77, 45]<br/>class = Didn't>, fillcolor="#f4cbad"] ;
+5 [label=<entropy = 0.558<br/>samples = 415<br/>value = [361, 54]<br/>class = Didn't>, fillcolor="#e99457"] ;
 4 -> 5 ;
-6 [label=<entropy = 0.586<br/>samples = 455<br/>value = [391, 64]<br/>class = Didn't>, fillcolor="#e99659"] ;
+6 [label=<entropy = 0.924<br/>samples = 162<br/>value = [107, 55]<br/>class = Didn't>, fillcolor="#f2c29f"] ;
 4 -> 6 ;
 }
